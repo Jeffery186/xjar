@@ -29,9 +29,9 @@ JDK 1.7 +
     <!-- 添加 XJar 依赖 -->
     <dependencies>
         <dependency>
-            <groupId>com.github.core-lib</groupId>
+            <groupId>com.github.Jeffery186</groupId>
             <artifactId>xjar</artifactId>
-            <version>4.0.2</version>
+            <version>4.3.212</version>
             <!-- <scope>test</scope> -->
         </dependency>
     </dependencies>
